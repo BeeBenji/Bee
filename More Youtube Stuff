@@ -1,0 +1,28 @@
+<poster>[COLOR red]@[COLOR=FF224499]Bee[COLOR red]@[/COLOR]</poster>
+<fanart>http://s14.postimg.org/8cnbzk7pt/resize_1.jpg</fanart>
+
+
+
+
+version=1
+background=http://i3.photobucket.com/albums/y53/kraftykatty/goth-girl-plain-background.jpg
+title=YouTube Movies
+description=Some Youtube movies
+ 
+type=playlist
+name=[COLOR=FFCC5599]Movie List[/COLOR]
+thumb=
+URL=http://www.navixtreme.com/playlist/123967/movies__tv_2.plx
+
+
+type=playlist
+name=[COLOR=FFCC5599]Movie & TV List[/COLOR]
+thumb=
+URL=http://www.navixtreme.com/playlist/123868/movies__tv.plx
+
+
+type=playlist
+name=[COLOR=FFCC5599]YouTube Music Videos[/COLOR]
+thumb=
+URL=http://www.navixtreme.com/playlist/123904/test.plx
+********************************************************************************************************
