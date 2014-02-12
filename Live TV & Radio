@@ -98,7 +98,7 @@
 
 <item>
 <title>Yes</title>
-<link>rtmp://111.118.21.77/ptv3// playpath=phd499 swfUrl=http://embed.liveonlinetv24x7.com/jwplayer/jwplayer.flash.swf pageUrl=http://embed.liveonlinetv24x7.com/playboytv-2/?autoplay=1&wmode=opaque</link>
+<link>rtmp://111.118.21.77/ptv3 playpath=phd499 swfUrl=http://embed.liveonlinetv24x7.com/jwplayer/jwplayer.flash.swf pageUrl=http://embed.liveonlinetv24x7.com/playboytv-2/?autoplay=1&wmode=opaque</link>
 <thumbnail></thumbnail>
 </item>
 
