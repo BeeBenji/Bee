@@ -337,9 +337,9 @@ URL=http://gdata.youtube.com/feeds/api/users/TheQuirkydude/playlists?v=2
 
 
 type=playlist
-name=
+name=All Kinds Of Big Brother
 thumb=
-URL=
+URL=http://gdata.youtube.com/feeds/api/users/BBArchiveFullEpisode/playlists?v=2
 
 
 type=playlist
