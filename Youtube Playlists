@@ -232,9 +232,9 @@ thumb=
 URL=http://gdata.youtube.com/feeds/api/videos?author=ClassicMovieVault
 
 type=playlist
-name=
+name=Plenty Of Movies
 thumb=
-URL=
+URL=http://gdata.youtube.com/feeds/api/users/PlentyOfMovies/playlists?v=2
 
 type=playlist
 name=
