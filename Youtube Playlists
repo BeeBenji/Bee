@@ -237,14 +237,14 @@ thumb=
 URL=http://gdata.youtube.com/feeds/api/users/PlentyOfMovies/playlists?v=2
 
 type=playlist
-name=
+name=Mr. Jade
 thumb=
-URL=
+URL=http://gdata.youtube.com/feeds/api/videos?author=MrJadedtom
 
 type=playlist
-name=
+name=Soothing Tunes
 thumb=
-URL=
+URL=http://gdata.youtube.com/feeds/api/videos?author=UC6x7POT2kD_YaxZMcWogOHg
 
 type=playlist
 name=
