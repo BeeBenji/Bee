@@ -217,19 +217,19 @@ thumb=
 URL=http://gdata.youtube.com/feeds/api/users/TheVideoCellar/playlists?v=2
 
 type=playlist
-name=
+name=Old TV Shows
 thumb=
-URL=
+URL=http://gdata.youtube.com/feeds/api/users/UCPUnDblCH56C2GlMCCS-I7w/playlists?v=2
 
 type=playlist
-name=
+name=Old Romance Movies
 thumb=
-URL=
+URL=http://gdata.youtube.com/feeds/api/videos?author=UCdtHojCvWRkJ_mx290WwEeg
 
 type=playlist
-name=
+name=Movie Vault
 thumb=
-URL=
+URL=http://gdata.youtube.com/feeds/api/videos?author=ClassicMovieVault
 
 type=playlist
 name=
