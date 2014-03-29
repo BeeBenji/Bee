@@ -257,14 +257,14 @@ thumb=
 URL=http://gdata.youtube.com/feeds/api/users/PizzaFlix/playlists?v=2
 
 type=playlist
-name=
+name=Talk Shows
 thumb=
-URL=
+URL=http://gdata.youtube.com/feeds/api/videos?author=ChannelMaury
 
 type=playlist
-name=
+name=More Talk Shows
 thumb=
-URL=
+URL=http://gdata.youtube.com/feeds/api/users/knightryderrwn/playlists?v=2
 
 type=playlist
 name=
