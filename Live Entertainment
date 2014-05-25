@@ -69,7 +69,7 @@
 
 <item>
 <title>King Of The Hill</title>
-<link>rtmp://198.27.74.25/app playpath=koth02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koth02 live =1</link>
+<link>rtmp://198.27.74.25/app playpath=koth02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koth02 live=1</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BODI0OTc1MTAxM15BMl5BanBnXkFtZTcwNjYxNzYxMQ@@._V1_SY317_CR8,0,214,317_.jpg</thumbnail>
 </item>
 
@@ -122,36 +122,33 @@
 </item>
 
 
-
-
+<item>
+<title>Threes Company</title>
+<link>rtmp://198.27.75.99/app playpath=3scom01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?3scom01 live=1</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA1Nzk0OTU1MF5BMl5BanBnXkFtZTcwMDMzMzIzMQ@@._V1_SY317_CR10,0,214,317_AL_.jpg</thumbnail>
+</item>
 
 <item>
-<title></title>
-<link></link>
+<title>I Love Lucy</title>
+<link>rtmp://198.27.75.99/app playpath=lucy02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?lucy02 live=1</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTkxNTg5NjU3Nl5BMl5BanBnXkFtZTcwMzMzMjkyMQ@@._V1_SY317_CR6,0,214,317_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Growing Pains</title>
+<link>rtmp://198.27.75.99/app playpath=gpain swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?gpain live=1</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTM5NTUzOTI0Nl5BMl5BanBnXkFtZTcwODk1MDkzMQ@@._V1_SY317_CR37,0,214,317_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>Memmory Television</title>
+<link>http://38.68.131.164/flv/4c6b26efc2b24/testat123?0.7644039620645344 live=1</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
+<title>48 Hours & Dateline</title>
+<link>http://38.68.131.178/flv/537fe667e6cbb/testat123?0.059426126070320606 live=1</link>
 <thumbnail></thumbnail>
 </item>
 
