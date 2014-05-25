@@ -23,38 +23,10 @@
 </item>
 
 
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
 <item>
 <title>WFTV</title>
 <link>http://brightcove03-f.akamaihd.net/WFTV_NEWSCAST_1800@50743?videoId=2207157620001&lineUpId=&pubId=268012959001&playerId=1154650738001&affiliateId=&bandwidthEstimationTest=true&v=3.2.0&fp=WIN%2012,0,0,43&r=IIXEH&g=BHVUKSYKKJCN</link>
 <thumbnail>http://i3.photobucket.com/albums/y53/kraftykatty/wwwwftvcom_741fb8b166704dcfa6b854c344cafb4c.png</thumbnail>
-</item>
-
-<item>
-<title>Price Drop TV</title>
-<link>rtmp://sharprouter.sharp-stream.com:1935/pricedroptv/_definst_/pricedroptv</link>
-<thumbnail></thumbnail>
-</item>
-
-
-
-<item>
-<title>KDKZ</title>
-<link>rtmp://fmsedge2.tikilive.com:1935/view/31830_291/ playpath=stream31830 swfUrl=http://www.tikilive.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.26 live=1 pageUrl=http://www.tikilive.com/show/kdkz18</link>
-<thumbnail>http://i3.photobucket.com/albums/y53/kraftykatty/BIG-KDKZ-bug.png</thumbnail>
-</item>
-
-
-<item>
-<title>WEYW</title>
-<link>rtmp://fmsedge2.tikilive.com:1935/view/23237_051/ playpath=stream23237 swfUrl=http://www.tikilive.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.10 live=1 pageUrl=http://www.tvchannel19.com/page38.html</link>
-<thumbnail>http://i3.photobucket.com/albums/y53/kraftykatty/WEYW19tvLOGOJPG.jpg</thumbnail>
 </item>
 
 
@@ -68,95 +40,6 @@
 <title>HSN</title>
 <link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31 swfUrl="http://img.hsni.com/images/Site_Relaunch_2007/arcade/StrobeMediaPlayback_Default.swf" pageUrl="http://www.hsn.com/watch-hsn-tv-live_xh.aspx?network=1&autostart=1&cm_sp=Global*LNTV*LiveTV" swfVfy=true live=true</link>
 <thumbnail>http://i3.photobucket.com/albums/y53/kraftykatty/HSN.png</thumbnail>
-</item>
-
-
-
-
-
-
-<item>
-<title>Sky Movies Action & Adventure</title>
-<link>rtmp://31.220.0.82:1935/live playpath=actionx swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?live=actionx&vw=620&vh=490</link>
-<thumbnail>http://s27.postimg.org/oxsoqgzib/SKYM_2010_BB_ACTION_HD_1_2.jpg</thumbnail>
-</item>
-
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>HLN (2)</title>
-<link>rtmp://50.7.28.114/app playpath=16425 swfVfy=1 swfUrl=http://udemy.com/static/flash/player5.9.swf live=true pageUrl=http://www.shidurlive.com/embed/hln</link>
-<thumbnail>http://i3.photobucket.com/albums/y53/kraftykatty/FirstConcept-2c.png</thumbnail>
-</item>
-
-
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
 </item>
 
 
@@ -240,11 +123,7 @@
 
 
 
-<item>
-<title>Friday Night Mysteries</title>
-<link>http://216.221.144.166/flv/4c6b26efc2b24/testat123?0.4549535787664354</link>
-<thumbnail></thumbnail>
-</item>
+
 
 <item>
 <title></title>
