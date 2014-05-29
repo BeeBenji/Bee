@@ -191,14 +191,14 @@
 
 <item>
 <title>BBC World News</title>
-<link>rtmpe://live.wowcast.tv:1935/redirect/ playpath=bbcccc swfUrl=http://www.wowcast.tv/player/player.swf pageUrl=http://www.wowcast.tv/embed.php?stream=bbcccc&vw=600&vh=430</link>
+<link>rtmpe://live.wowcast.tv:1935/redirect/ playpath=bbcccc swfUrl=http://www.wowcast.tv/player/player.swf pageUrl=http://www.wowcast.tv/embed.php</link>
 <thumbnail>http://www.truthincraft.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/T/V/TV_1408.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>AMC</title>
-<link>rtmpe://watch.playfooty.tv/live playpath=amc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=amc1569&vw=600&vh=430</link>
+<link>rtmpe://198.24.172.218:1935/goLive playpath=amc.stream swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|</link>
 <thumbnail>http://www.truthincraft.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/T/V/TV_1408.jpg</thumbnail>
 </item>
 
