@@ -190,16 +190,16 @@
 
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>BBC World News</title>
+<link>rtmpe://live.wowcast.tv:1935/redirect/ playpath=bbcccc swfUrl=http://www.wowcast.tv/player/player.swf pageUrl=http://www.wowcast.tv/embed.php?stream=bbcccc&vw=600&vh=430</link>
+<thumbnail>http://www.truthincraft.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/T/V/TV_1408.jpg</thumbnail>
 </item>
 
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>AMC</title>
+<link>rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=amc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=amc1569&vw=600&vh=430</link>
+<thumbnail>http://www.truthincraft.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/T/V/TV_1408.jpg</thumbnail>
 </item>
 
 
