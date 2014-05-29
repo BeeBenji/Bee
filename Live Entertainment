@@ -191,7 +191,7 @@
 
 <item>
 <title>BBC World News</title>
-<link>rtmpe://live.wowcast.tv:1935/redirect/ playpath=bbcccc swfUrl=http://www.wowcast.tv/player/player.swf pageUrl=http://www.wowcast.tv/embed.php</link>
+<link>rtmpe://live.wowcast.tv:1935/redirect/ playpath=bbcccc swfUrl=http://www.wowcast.tv/player/player.swf pageUrl=http://www.wowcast.tv/embed.php live=1</link>
 <thumbnail>http://www.truthincraft.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/T/V/TV_1408.jpg</thumbnail>
 </item>
 
