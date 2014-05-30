@@ -161,11 +161,6 @@
 </item>
 
 
-<item>
-<title>Sky Comedy</title>
-<link>rtmp://46.246.124.22:1935/private/_definst_/ playpath=greats swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org</link>
-<thumbnail>http://www.truthincraft.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/T/V/TV_1408.jpg</thumbnail>
-</item>
 
 
 <item>
@@ -189,18 +184,6 @@
 </item>
 
 
-<item>
-<title>BBC World News</title>
-<link>rtmpe://live.wowcast.tv:1935/redirect/ playpath=bbcccc swfUrl=http://www.wowcast.tv/player/player.swf pageUrl=http://www.wowcast.tv/embed.php live=1</link>
-<thumbnail>http://www.truthincraft.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/T/V/TV_1408.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>AMC</title>
-<link>rtmpe://198.24.172.218:1935/goLive playpath=amc.stream swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|</link>
-<thumbnail>http://www.truthincraft.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/T/V/TV_1408.jpg</thumbnail>
-</item>
 
 
 <item>
