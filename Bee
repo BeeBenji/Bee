@@ -31,7 +31,22 @@
 </dir>
 
 
+#
 
+<dir>
+<name>[COLOR=FFCC5599]Movies[/COLOR]</name>
+<thumbnail>http://rummuser.com/wp-content/uploads/movies.jpg</thumbnail>
+<link>http://goo.gl/sHLTuR</link>
+</dir>
+
+
+#
+
+<dir>
+<name>[COLOR=FFCC5599]TV[/COLOR]</name>
+<thumbnail>http://www.billyhoward.tv/images/tv.png</thumbnail>
+<link>http://goo.gl/bzMIEu</link>
+</dir>
 
 
 
