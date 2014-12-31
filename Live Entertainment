@@ -14,35 +14,23 @@
 
 <item>
 <title>All In The Family</title>
-<link>rtmp://198.27.75.99/app playpath=aitf swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?aitf live=1</link>
+<link>rtmp://198.27.75.99/ch02 playpath=aitf swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?aitf live=1</link>
 <thumbnail>http://1.bp.blogspot.com/_6kYzhJGqq2M/TK6ErK2EhFI/AAAAAAAAFco/-yoO67txjYo/s1600/All+In+The+Family.jpg</thumbnail>
 </item>
 
 
-<item>
-<title>Antenna New York</title>
-<link>rtmp://38.74.192.121/live/?id=0ad5aac39bb13fbed35c3fc33b92bcd72007963c34dcc1512b6cd67e0ceb942398401212ee68b932ac4ce7fc2644a0b84e8553d8c36a950c068dae9ee3e20ef4b083aab7f88b33fdb3af488f64ff6c6a6421513c77158c784b94a5389b800276831d911b6943aa8a2a831e175a3c67075dbaedfb742de146e1a2a14c719c387a4bb8140ba4dc44a1ab07b64953cccf9746b705240edc387bdfd3ddc5ce0369d28e97c9bf4ef4ed5baab7c818c8226188 playpath=2434.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55 pageUrl=http://www.filmon.com/tv/antenna-new-york</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/397px-Antenna_TV_logo.svg.png</thumbnail>
-</item>
-
 
 <item>
 <title>Boy Meets World</title>
-<link>rtmp://198.27.75.99/app playpath=bmw swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?bmw live=1</link>
+<link>rtmp://198.27.75.99/ch02 playpath=bmw swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?bmw live=1</link>
 <thumbnail>http://s3.amazonaws.com/inarticles/cd6d9f5283899757651f67cbe4a3508b.jpg</thumbnail>
 </item>
 
 
-<item>
-<title>The Bronx (Cam)</title>
-<link>http://live.camstreams.com/csauge</link>
-<thumbnail>http://2.bp.blogspot.com/_HCy9NTgctuo/SoXWcdTxqvI/AAAAAAAAAsk/myMROTuH2GE/s1600/bronx.large.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>Cheers</title>
-<link>rtmp://198.27.75.99/app playpath=cheers01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cheers01 live=1</link>
+<link>rtmp://198.27.75.99/ch02 playpath=cheers01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cheers01 live=1</link>
 <thumbnail>http://www.tvshowsondvd.com/graphics/news3/Cheers_S11_early.jpg</thumbnail>
 </item>
 
@@ -52,14 +40,14 @@
 
 <item>
 <title>Cops</title>
-<link>rtmp://198.27.75.99/app playpath=cops01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cops01 live=1</link>
+<link>rtmp://198.27.75.99/ch02 playpath=cops01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cops01 live=1</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/18/COPS_intertitle.png</thumbnail>
 </item>
 
 
 <item>
 <title>The Cosby Show</title>
-<link>rtmp://198.27.75.99/app playpath=cosby swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cosby live=1</link>
+<link>rtmp://198.27.75.99/ch02 playpath=cosby swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cosby live=1</link>
 <thumbnail>http://www.tvshowsondvd.com/graphics/news3/TheCosbyShow_Cast.jpg</thumbnail>
 </item>
 
@@ -69,16 +57,11 @@
 
 <item>
 <title>The Drew Carey Show</title>
-<link>rtmp://198.27.75.99/app playpath=drewcarey swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?drewcarey live=1</link>
+<link>rtmp://198.27.75.99/ch02 playpath=drewcarey swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?drewcarey live=1</link>
 <thumbnail>http://i.cdn.turner.com/v5cache/TBS/Images/Dynamic/i10/drewcarey_cast_240x260_053020041834.jpg</thumbnail>
 </item>
 
 
-<item>
-<title>Dublin Pub (Cam)</title>
-<link>rtmp://video2.earthcam.com/fecnetwork playpath=4054.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140606 pageUrl=http://www.earthcam.com/world/ireland/dublin/?cam=templebar</link>
-<thumbnail>http://www.fodors.com/wire/Dublin-Quays-bar-pub.jpg</thumbnail>
-</item>
 
 <item>
 <title>Elvis Wedding Chapel (Cam)</title>
@@ -89,7 +72,7 @@
 
 <item>
 <title>Everybody Loves Raymond</title>
-<link>rtmp://198.27.74.25/app playpath=elr02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?elr02 live-1</link>
+<link>rtmp://192.99.38.122/ch01 playpath=elr02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?elr02 live-1</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTc2ODEyMzUwMV5BMl5BanBnXkFtZTcwNTAxODUyMQ@@._V1_SY317_CR8,0,214,317_.jpg</thumbnail>
 </item>
 
@@ -100,37 +83,31 @@
 
 <item>
 <title>Fresh Prince Of Bel Air</title>
-<link>rtmp://198.27.74.25/app playpath=freshprince02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?freshprince02 live=1</link>
+<link>rtmp://192.99.38.122/ch01 playpath=freshprince02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?freshprince02 live=1</link>
 <thumbnail>http://morganmosley.files.wordpress.com/2011/10/freshie5yq4l-_sx500_.jpg</thumbnail>
 </item>
 
 
 <item>
-<title>GBH</title>
-<link>rtmp://38.79.128.43/live/?id=0ad5aac39bb13fbedde9216652538e5ab69739dff17f7f4740a3a0f509490fa7e2cfcf12cc85162c292767362ea66828c7f8d281b6dcd1f1892042f087784d4e52fbc5e31e6e80c57336054b6c0687f24f2635a0299ef4936d19b50090987d7ef8bb44b8dae97fd69e3d1c5010d8bff1d7ea20541b6bcdf58df26031691b0707a2025787da2d6ba805954b6d7eb1a5aeb52594b080801d40ad751b547db3442d4bce4d986e6cbeb715ace5556ac48563 playpath=2864.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55 pageUrl=http://www.filmon.com/tv/gbh-kids-444-boston</link>
-<thumbnail>http://www.wgbh.org/imageassets/gbhkids_logo.jpg</thumbnail>
+<title>Friends</title>
+<link>rtmp://192.99.38.122/ch01 playpath=friends02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?friends02 live=1</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/d/d6/20130303210812!Friends_season_one_cast.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>Growing Pains</title>
-<link>rtmp://198.27.75.99/app playpath=gpain swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?gpain live=1</link>
+<link>rtmp://198.27.75.99/ch02 playpath=gpain swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?gpain live=1</link>
 <thumbnail>http://kirkcameron.com/wp-content/uploads/2012/06/growing_pains_pc.jpeg</thumbnail>
 </item>
 
 
 <item>
 <title>Hangin With Mr Cooper</title>
-<link>rtmp://198.27.75.99/app playpath=cooper swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cooper live=1</link>
+<link>rtmp://198.27.75.99/ch02 playpath=cooper swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cooper live=1</link>
 <thumbnail>http://media.tumblr.com/01914399fbde944e850158587d4af571/tumblr_inline_mt0hx3Pi3Z1qz4rgp.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>Heart</title>
-<link>rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart</link>
-<thumbnail>http://i3.photobucket.com/albums/y53/kraftykatty/images-2.jpg</thumbnail>
-</item>
 
 
 <item>
@@ -149,134 +126,61 @@
 
 <item>
 <title>I Love Lucy</title>
-<link>rtmp://198.27.75.99/app playpath=lucy02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?lucy02 live=1</link>
+<link>rtmp://198.27.75.99/ch02 playpath=lucy02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?lucy02 live=1</link>
 <thumbnail>http://www.criticalcommons.org/Members/AMST125/clips/i-love-lucy-promotional-photo/thumbnailImage</thumbnail>
 </item>
 
 
-<item>
-<title>Jewelry Television</title>
-<link>rtmp://jtvmedia.jtv.com:1975/live playpath=live6 swfUrl=http://demandware.edgesuite.net/aaby_prd/on/demandware.static/Sites-jtv-Site/-/default/v1401717772583/swf/flashMediaPlayer/StrobeMediaPlayback.swf pageUrl=http://www.jtv.com/on/demandware.store/Sites-jtv-Site/default/LiveViewer-Show</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/jj/jewelry_tv.png</thumbnail>
-</item>
-
 
 <item>
 <title>King Of Queens</title>
-<link>rtmp://198.27.74.25/app playpath=koq02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koq02 live=1</link>
+<link>rtmp://192.99.38.122/ch01 playpath=koq02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koq02 live=1</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20130914231502/epicrapbattlesofhistory/images/7/78/The_king_of_queens.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>King Of The Hill</title>
-<link>rtmp://198.27.74.25/app playpath=koth02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koth02 live=1</link>
+<link>rtmp://192.99.38.122/ch01 playpath=koth02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koth02 live=1</link>
 <thumbnail>http://i360.photobucket.com/albums/oo43/Da_Killa_Ounze/KingoftheHillTheGuysBanner_zpsc8b5fec1.jpg</thumbnail>
 </item>
 
 
-<item>
-<title>Lawrence, Kansas Train (Cam)</title>
-<link>http://live.camstreams.com/cstraincam</link>
-<thumbnail>http://images.webcams.travel/webcam/1346119201-Weather-Lawrence,-Kansas-BNSF-Train-Cam-Kansas-City.jpg</thumbnail>
-</item>
 
 
-<item>
-<title>Life On The River (Cam)</title>
-<link>http://live.camstreams.com/csZappers</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/1/14/Life_on_the_River,_Cambodia.JPG</thumbnail>
-</item>
 
 
-<item>
-<title>Mansfield (Cam)</title>
-<link>http://live.camstreams.com/csnlgardiner</link>
-<thumbnail>http://media.point2.com/cnw/listing/ed73/3980/ee82/46202d5e96a73b514fe3/w475h356.jpg</thumbnail>
-</item>
 
-
-<item>
-<title>Mash</title>
-<link>rtmp://198.27.74.25/app playpath=mash02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?mash02</link>
-<thumbnail>http://theredlist.com/media/database/films/tv-series/comedy-and-romance/1970/mash.H/004-mash-theredlist.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Movies! New York</title>
-<link>rtmp://38.74.192.122/live/?id=0ad5aac39bb13fbed102157dc3b29e7e6be6882e49c9e5c8db9e61ce4319275b1d565350fd510c8f4cce3b2b348a2de3a485760588aceb14d0a4d226bc8c3e935b9b6f604b7f79a8619b73c93a2d95dfae466b2276b04e3a27845f88e8de2fe88dfd5d45d70fdc4ac42d300d628b15a2eaf1e0ca13b28c265e10974dec6f05748beb979ccef2a0907c05fd134092a12368b38d5c1d23fd0da08deedc85e2ce4418043d8676251543db6172a56121ddfa playpath=2479.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55 pageUrl=http://www.filmon.com/tv/movies-new-york</link>
-<thumbnail>http://waga.images.worldnow.com/images/22418703_SA.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>New Orleans (Cam)</title>
-<link>rtmp://video2.earthcam.com/fecnetwork playpath=4280.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140527b pageUrl=http://www.earthcam.com/usa/louisiana/neworleans/bourbonstreet/?cam=bourbonstreet</link>
-<thumbnail>http://www.destination360.com/north-america/us/louisiana/images/s/bourbon-street.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>The Nut Hut (Web Cam)</title>
-<link>http://live.camstreams.com/csmusiman1950</link>
-<thumbnail>http://i.stack.imgur.com/L18sm.png</thumbnail>
-</item>
 
 
 <item>
 <title>Roseanne</title>
-<link>rtmp://198.27.75.99/app playpath=roseanne01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?roseanne01 live=1</link>
+<link>rtmp://198.27.75.99/ch02 playpath=roseanne01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?roseanne01 live=1</link>
 <thumbnail>http://popreflection.files.wordpress.com/2012/02/701555752.jpg</thumbnail>
 </item>
 
 
-<item>
-<title>Seaside Heights (Cam)</title>
-<link>rtmp://video2.earthcam.com/fecnetwork playpath=5173.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140527b pageUrl=http://www.earthcam.com/usa/newjersey/seasideheights/?cam=seasideheights</link>
-<thumbnail>http://imgick.nj.com/home/njo-media/pgmain/img/star-ledger/photo/2013/07/-ce37492e8801227b.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Seattle Aquarium Otter (Cam)</title>
-<link>rtmp://SeattleAquarium.flash.internapcdn.net/SeattleAquarium/live_1 playpath=SEAQ1 swfUrl=http://media.seattleaquarium.org/flowplayer-3.2.11.swf pageUrl=http://www.seattleaquarium.org/otter-cams</link>
-<thumbnail>http://www.seattleaquarium.org/image/2011---otter-cams/Aniak---380x253px---web.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sky News</title>
-<link>rtmp://hd2.lsops.net/live/ playpath=skynewsi_en_372 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/siteplayer.php?&streamer=rtmp://hd2.lsops.net/live/&file=skynewsi_en_372</link>
-<thumbnail>http://thinkspalondon.com/wp-content/uploads/2010/04/sky-news-logo.png</thumbnail>
-</item>
-
-
-<item>
-<title>Solo Wong (Cam)</title>
-<link>http://live.camstreams.com/cssolowongHONGKONG</link>
-<thumbnail>http://solowongsinging.com/newPics/folk2005.jpg</thumbnail>
-</item>
 
 
 
 
-<item>
-<title>That 70's Show</title>
-<link>rtmp://198.27.75.99/app playpath=that70sshow swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?that70sshow</link>
-<thumbnail>http://fc04.deviantart.net/fs70/i/2013/084/d/8/that_70_s_show_by_fieveltrue-d5z8o8k.jpg</thumbnail>
-</item>
 
 
-<item>
-<title>This TV Boston</title>
-<link>rtmp://38.79.128.43/live/?id=0ad5aac39bb13fbe4b3307b585fc2f5d60fbb2d94e65fe1db8a7e0caaabacd3bd9aefee7e4b0127261b68b117484701ad20bdab059919ae01a0e55fc58769b6f0aaac67ad70d332f33861e08395afaf84b16cb4fe2f2fc5744a4c1756b1ab3561a57b261c577e37bbe8e9049dd6953acc02ce2f24b9cc87af1ca1e282c7737965c05ba2a1e2f133ad5b78b6dd432fcd0bdf3b840e92c9e90dece72376c1be30df01e667d9fcb5738de2981b374371ee9 playpath=2862.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55 pageUrl=http://www.filmon.com/tv/this-tv-boston-whdh-72</link>
-<thumbnail>http://i15.photobucket.com/albums/a379/lphotos/ThisTVimage_zps433ec108.jpg</thumbnail>
-</item>
+
+
+
+
+
+
+
+
+
+
 
 
 <item>
 <title>Threes Company</title>
-<link>rtmp://198.27.75.99/app playpath=3scom01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?3scom01 live=1</link>
+<link>rtmp://198.27.75.99/ch02 playpath=3scom01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?3scom01 live=1</link>
 <thumbnail>http://www.jimski.net/wp-content/uploads/2013/10/Threes-Company-logo1.jpg</thumbnail>
 </item>
 
@@ -288,56 +192,21 @@
 </item>
 
 
-<item>
-<title>The Trailer Park Boys</title>
-<link>rtmp://198.27.74.25/app playpath=tpb02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?tpb02</link>
-<thumbnail>http://images4.alphacoders.com/843/8438.jpg</thumbnail>
-</item>
 
 
-<item>
-<title>Two & A Half  Men</title>
-<link>rtmp://198.27.74.25/app playpath=men02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?men02 live=1</link>
-<thumbnail>http://www.allthetests.com/quiz29/picture/pic_1320975034_1.jpg</thumbnail>
-</item>
 
 
-<item>
-<title>Vevo</title>
-<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8</link>
-<thumbnail>http://i3.photobucket.com/albums/y53/kraftykatty/vevo-tv-logo-new.png</thumbnail>
-</item>
 
 
-<item>
-<title>WGBH</title>
-<link>rtmp://38.79.128.43/live/?id=0ad5aac39bb13fbe968717be8675ca13fae821ac370dafd0374917ab4e1dd7d38205866f188a2e3d18d73b966fd00bebb241874ee9b469c900cf3b23c01ed367a8ce22b363e6ee6807fce4c09ab0742522fad6e167aee8845def5f3f25b298eeafd524fb505bb2241a6779ad025e39c09f74a4e02ed481e4abe2d2776c269ed23b194eb0a709a3442546c03101759787398eb1ceecf6edfe878ca1595c94643f2170e5cef3e03cb4ac1c0c52f545185f playpath=2851.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55 pageUrl=http://www.filmon.com/tv/wgbh-hd-boston</link>
-<thumbnail>http://www.wgbh.org/images/defaultMediumPlayer_WGBH.jpg</thumbnail>
-</item>
 
 
-<item>
-<title>WJLA</title>
-<link>rtmp://38.84.225.122/live/?id=0ad5aac39bb13fbe7ec23af519b8d57dc50ce67f2e78d26d21ff7fc5d55a30178d79b7164b4c7c3fe5f522fa2dca235a84693ab736e39dd55d589a0063cf1d9655d299eb07ee7477874d4f5a10c637f0736dd69bb2f53449054a165b1379746a9d218775bc1be7a67630bebb65583570e0b62fd87632507b83ca846922faa52ce6190f3f48b8f3c573e7bd585bcfee797ae2fb4b25ce3c6c51a8ca3abbe3054afcb84fcf9b3f37aef60148e9244ddba1 playpath=2493.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55 pageUrl=http://www.filmon.com/tv/wjla-me-washington</link>
-<thumbnail>http://oceancityracino.com/wp-content/uploads/2012/04/WJLA97-TV.jpg</thumbnail>
-</item>
 
-
-<item>
-<title>WSVN (By Request)</title>
-<link>rtmp://wsvn.mpl.miisolutions.net:1935/wsvn-live01 playpath=apple_med swfUrl=http://www.wsvn.com/[[IMPORT]]/players.edgesuite.net/flash/plugins/osmf/advanced-streaming-plugin/v2.11/osmf1.5/fp10.1/AkamaiAdvancedStreamingPlugin.swf pageUrl=http://www.wsvn.com/story/22610002/watch-7news-live</link>
-<thumbnail>http://ftpcontent2.worldnow.com/wsvn/slate/live-slate.jpg</thumbnail>
-</item>
 
 
 *******************************************************************************************************************************
 
 
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
+
 
 <item>
 <title></title>
