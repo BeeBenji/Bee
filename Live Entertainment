@@ -187,7 +187,7 @@
 
 <item>
 <title>Times Square (Cam)</title>
-<link>rtmp://video2.earthcam.com/fecnetwork playpath=hdtimes10.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140527b pageUrl=http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1</link>
+<link>rtmp://video4.earthcam.com:1935/fecnetwork playpath=hdtimes10.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20141231b pageUrl=http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1</link>
 <thumbnail>http://4.bp.blogspot.com/-J4pqmxq-b30/URP1QO5JpkI/AAAAAAAAYm4/l2D1reYyGEo/s1600/DSC_0173.JPG</thumbnail>
 </item>
 
