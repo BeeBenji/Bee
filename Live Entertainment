@@ -57,7 +57,7 @@
 
 <item>
 <title>The Drew Carey Show</title>
-<link>rtmp://198.27.75.99/ch02 playpath=drewcarey swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?drewcarey live=1</link>
+<link>rtmp://198.27.75.99/ch02/ playpath-drewcarey swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?drewcarey live=1</link>
 <thumbnail>http://i.cdn.turner.com/v5cache/TBS/Images/Dynamic/i10/drewcarey_cast_240x260_053020041834.jpg</thumbnail>
 </item>
 
@@ -83,7 +83,7 @@
 
 <item>
 <title>Fresh Prince Of Bel Air</title>
-<link>rtmp://192.99.38.122/ch01 playpath=freshprince02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?freshprince02 live=1</link>
+<link>rtmp://192.99.38.122/ch004/ playpath=freshprince02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?freshprince02 live=1</link>
 <thumbnail>http://morganmosley.files.wordpress.com/2011/10/freshie5yq4l-_sx500_.jpg</thumbnail>
 </item>
 
@@ -194,7 +194,11 @@
 
 
 
-
+<item>
+<title>Two & A Half Men</title>
+<link>rtmp://192.99.38.122/ch004/ playpath=men02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?men02 live=1</link>
+<thumbnail>http://pmcdeadline2.files.wordpress.com/2011/07/two-and-a-half-men-seasons-1-7-30dvd-001_20110728185806.jpg</thumbnail>
+</item>
 
 
 
@@ -208,11 +212,7 @@
 
 
 
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
+
 
 <item>
 <title></title>
