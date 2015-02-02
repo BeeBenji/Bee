@@ -134,7 +134,7 @@
 
 <item>
 <title>King Of Queens</title>
-<link>rtmp://192.99.38.122/ch004/ playpath=koq02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koq02 live=1</link>
+<link>rtmp://192.99.38.122/codec/ playpath=koq02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koq02 live=1</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20130914231502/epicrapbattlesofhistory/images/7/78/The_king_of_queens.jpg</thumbnail>
 </item>
 
