@@ -336,37 +336,6 @@
 
 
 
-<item>
-<title>Bob's Burgers</title>
-<link>rtmp://62.210.76.216/live playpath=s4fbobsburger swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf live=1</link>
-<thumbnail>http://pmcdeadline2.files.wordpress.com/2013/05/bobs_burgers-copy__130501164924-275x404.jpg</thumbnail>
-</item>
-
-<item>
-<title>Waltons</title>
-<link>rtmp://198.255.0.18:443/live?cLBMPT560QWkYk1hpfJyZs8HsSP0Uuxc playpath=live_johnboyjimbob swfUrl=http://vaughnlive.tv/4259041179/swf/VaughnSoftPlayer.swf live=1</link>
-<thumbnail>http://www.angelfire.com/ma4/thewaltons/pg_waltons.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>After Hours</title>
-<link>rtmp://198.255.0.18:443/live?cLBMPT560QWkYk1hpfJyZs8HsSP0Uuxc playpath=live_afterhours swfUrl=http://vaughnlive.tv/4259041179/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv</link>
-<thumbnail>https://origin.ih.constantcontact.com/fs105/1102564327355/img/1041.jpg?ver=1392861013000</thumbnail>
-</item>
-
-<item>
-<title>Pawn Shows</title>
-<link>rtmp://198.255.0.18:443/live?cLBMPT560QWkYk1hpfJyZs8HsSP0Uuxc playpath=live_lmshows_hps swfUrl=http://vaughnlive.tv/4259041179/swf/VaughnSoftPlayer.swf live=1</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTY4NjE5NDExN15BMl5BanBnXkFtZTcwODk2NTk5Mw@@._V1_SY317_CR5,0,214,317_AL_.jpg</thumbnail>
-</item>
-
-<item>
-<title>Crime Shows 24/7</title>
-<link>rtmp://198.255.0.18:443/live?cLBMPT560QWkYk1hpfJyZs8HsSP0Uuxc playpath=live_crimecentral swfUrl=http://vaughnlive.tv/4259041179/swf/VaughnSoftPlayer.swf live=1</link>
-<thumbnail>https://miacannedy.files.wordpress.com/2013/02/i_heart_crime_shows_mousepad-p144553057931536801envq7_400.jpg</thumbnail>
-</item>
-
 
 <item>
 <title></title>
