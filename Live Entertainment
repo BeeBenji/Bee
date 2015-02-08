@@ -14,7 +14,7 @@
 
 <item>
 <title>All In The Family</title>
-<link>rtmp://198.27.75.99/ch02/ playpath=aitf swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?aitf live=1</link>
+<link>rtmp://198.27.75.99:1935/folder/ playpath=aitf swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?aitf live=1</link>
 <thumbnail>http://1.bp.blogspot.com/_6kYzhJGqq2M/TK6ErK2EhFI/AAAAAAAAFco/-yoO67txjYo/s1600/All+In+The+Family.jpg</thumbnail>
 </item>
 
@@ -22,7 +22,7 @@
 
 <item>
 <title>Boy Meets World</title>
-<link>rtmp://198.27.75.99/ch02/ playpath=bmw swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?bmw live=1</link>
+<link>rtmp://198.27.75.99:1935/folder/ playpath=bmw swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?bmw live=1</link>
 <thumbnail>http://s3.amazonaws.com/inarticles/cd6d9f5283899757651f67cbe4a3508b.jpg</thumbnail>
 </item>
 
@@ -30,7 +30,7 @@
 
 <item>
 <title>Cheers</title>
-<link>rtmp://198.27.75.99/ch02/ playpath=cheers01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cheers01 live=1</link>
+<link>rtmp://198.27.75.99:1935/folder/ playpath=cheers01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cheers01 live=1</link>
 <thumbnail>http://www.tvshowsondvd.com/graphics/news3/Cheers_S11_early.jpg</thumbnail>
 </item>
 
@@ -40,14 +40,14 @@
 
 <item>
 <title>Cops</title>
-<link>rtmp://198.27.75.99/ch02/ playpath=cops01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cops01 live=1</link>
+<link>rtmp://198.27.75.99:1935/folder/ playpath=cops01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cops01 live=1</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/18/COPS_intertitle.png</thumbnail>
 </item>
 
 
 <item>
 <title>The Cosby Show</title>
-<link>rtmp://198.27.75.99/ch02/ playpath=cosby swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cosby live=1</link>
+<link>rtmp://198.27.75.99:1935/folder/ playpath=cosby swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cosby live=1</link>
 <thumbnail>http://www.tvshowsondvd.com/graphics/news3/TheCosbyShow_Cast.jpg</thumbnail>
 </item>
 
@@ -57,7 +57,7 @@
 
 <item>
 <title>The Drew Carey Show</title>
-<link>rtmp://198.27.75.99/ch02/ playpath-drewcarey swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?drewcarey live=1</link>
+<link>rtmp://198.27.75.99:1935/folder/ playpath-drewcarey swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?drewcarey live=1</link>
 <thumbnail>http://i.cdn.turner.com/v5cache/TBS/Images/Dynamic/i10/drewcarey_cast_240x260_053020041834.jpg</thumbnail>
 </item>
 
@@ -72,7 +72,7 @@
 
 <item>
 <title>Everybody Loves Raymond</title>
-<link>rtmp://192.99.21.184:1935/blink0110 playpath=elr02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?elr02 live-1</link>
+<link>rtmp://192.99.21.184:1935/blink0110/ playpath=elr02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?elr02 live-1</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTc2ODEyMzUwMV5BMl5BanBnXkFtZTcwNTAxODUyMQ@@._V1_SY317_CR8,0,214,317_.jpg</thumbnail>
 </item>
 
@@ -83,14 +83,14 @@
 
 <item>
 <title>Fresh Prince Of Bel Air</title>
-<link>rtmp://192.99.21.184:1935/blink0110 playpath=freshprince02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?freshprince02 live=1</link>
+<link>rtmp://192.99.21.184:1935/blink0110/ playpath=freshprince02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?freshprince02 live=1</link>
 <thumbnail>http://morganmosley.files.wordpress.com/2011/10/freshie5yq4l-_sx500_.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>Friends</title>
-<link>rtmp://192.99.21.184:1935/blink0110 playpath=friends02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?friends02 live=1</link>
+<link>rtmp://192.99.21.184:1935/blink0110/ playpath=friends02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?friends02 live=1</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/d/d6/20130303210812!Friends_season_one_cast.jpg</thumbnail>
 </item>
 
@@ -104,7 +104,7 @@
 
 <item>
 <title>Hangin With Mr Cooper</title>
-<link>rtmp://198.27.75.99/ch02/ playpath=cooper swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cooper live=1</link>
+<link>rtmp://198.27.75.99:1935/folder/ playpath=cooper swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cooper live=1</link>
 <thumbnail>http://media.tumblr.com/01914399fbde944e850158587d4af571/tumblr_inline_mt0hx3Pi3Z1qz4rgp.jpg</thumbnail>
 </item>
 
@@ -126,7 +126,7 @@
 
 <item>
 <title>I Love Lucy</title>
-<link>rtmp://198.27.75.99/ch02/ playpath=lucy02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?lucy02 live=1</link>
+<link>rtmp://198.27.75.99:1935/folder/ playpath=lucy02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?lucy02 live=1</link>
 <thumbnail>http://www.criticalcommons.org/Members/AMST125/clips/i-love-lucy-promotional-photo/thumbnailImage</thumbnail>
 </item>
 
@@ -134,14 +134,14 @@
 
 <item>
 <title>King Of Queens</title>
-<link>rtmp://192.99.38.122/codec/ playpath=koq02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koq02 live=1</link>
+<link>rtmp://192.99.21.184:1935/blink0110/ playpath=koq02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koq02 live=1</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20130914231502/epicrapbattlesofhistory/images/7/78/The_king_of_queens.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>King Of The Hill</title>
-<link>rtmp://192.99.38.122/codec/ playpath=koth02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koth02 live=1</link>
+<link>rtmp://192.99.21.184:1935/blink0110/ playpath=koth02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koth02 live=1</link>
 <thumbnail>http://i360.photobucket.com/albums/oo43/Da_Killa_Ounze/KingoftheHillTheGuysBanner_zpsc8b5fec1.jpg</thumbnail>
 </item>
 
@@ -155,7 +155,7 @@
 
 <item>
 <title>Roseanne</title>
-<link>rtmp://198.27.75.99/ch02/ playpath=roseanne01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?roseanne01 live=1</link>
+<link>rtmp://198.27.75.99:1935/folder/ playpath=roseanne01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?roseanne01 live=1</link>
 <thumbnail>http://popreflection.files.wordpress.com/2012/02/701555752.jpg</thumbnail>
 </item>
 
@@ -180,7 +180,7 @@
 
 <item>
 <title>Threes Company</title>
-<link>rtmp://198.27.75.99/ch02/ playpath=3scom01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?3scom01 live=1</link>
+<link>rtmp://198.27.75.99:1935/folder/ playpath=3scom01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?3scom01 live=1</link>
 <thumbnail>http://www.jimski.net/wp-content/uploads/2013/10/Threes-Company-logo1.jpg</thumbnail>
 </item>
 
@@ -196,7 +196,7 @@
 
 <item>
 <title>Two & A Half Men</title>
-<link>rtmp://192.99.38.122/codec/ playpath=men02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?men02 live=1</link>
+<link>rtmp://192.99.21.184:1935/blink0110/ playpath=men02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?men02 live=1</link>
 <thumbnail>http://pmcdeadline2.files.wordpress.com/2011/07/two-and-a-half-men-seasons-1-7-30dvd-001_20110728185806.jpg</thumbnail>
 </item>
 
