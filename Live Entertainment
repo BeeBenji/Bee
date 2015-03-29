@@ -72,7 +72,7 @@
 
 <item>
 <title>Everybody Loves Raymond</title>
-<link>rtmp://192.99.21.184:1935/blink0110/ playpath=elr02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?elr02 live-1</link>
+<link>rtmp://192.99.38.122/rizla01/ playpath=elr02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?elr02 live-1</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTc2ODEyMzUwMV5BMl5BanBnXkFtZTcwNTAxODUyMQ@@._V1_SY317_CR8,0,214,317_.jpg</thumbnail>
 </item>
 
@@ -83,14 +83,14 @@
 
 <item>
 <title>Fresh Prince Of Bel Air</title>
-<link>rtmp://192.99.21.184:1935/blink0110/ playpath=freshprince02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?freshprince02 live=1</link>
+<link>rtmp://192.99.38.122/rizla01/ playpath=freshprince02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?freshprince02 live=1</link>
 <thumbnail>http://morganmosley.files.wordpress.com/2011/10/freshie5yq4l-_sx500_.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>Friends</title>
-<link>rtmp://192.99.21.184:1935/blink0110/ playpath=friends02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?friends02 live=1</link>
+<link>rtmp://192.99.38.122/rizla01/ playpath=friends02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?friends02 live=1</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/d/d6/20130303210812!Friends_season_one_cast.jpg</thumbnail>
 </item>
 
@@ -134,14 +134,14 @@
 
 <item>
 <title>King Of Queens</title>
-<link>rtmp://192.99.21.184:1935/blink0110/ playpath=koq02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koq02 live=1</link>
+<link>rtmp://192.99.38.122/rizla01/ playpath=koq02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koq02 live=1</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20130914231502/epicrapbattlesofhistory/images/7/78/The_king_of_queens.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>King Of The Hill</title>
-<link>rtmp://192.99.21.184:1935/blink0110/ playpath=koth02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koth02 live=1</link>
+<link>rtmp://192.99.38.122/rizla01/ playpath=koth02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koth02 live=1</link>
 <thumbnail>http://i360.photobucket.com/albums/oo43/Da_Killa_Ounze/KingoftheHillTheGuysBanner_zpsc8b5fec1.jpg</thumbnail>
 </item>
 
@@ -196,7 +196,7 @@
 
 <item>
 <title>Two & A Half Men</title>
-<link>rtmp://192.99.21.184:1935/blink0110/ playpath=men02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?men02 live=1</link>
+<link>rtmp://192.99.38.122/rizla01/ playpath=men02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?men02 live=1</link>
 <thumbnail>http://pmcdeadline2.files.wordpress.com/2011/07/two-and-a-half-men-seasons-1-7-30dvd-001_20110728185806.jpg</thumbnail>
 </item>
 
