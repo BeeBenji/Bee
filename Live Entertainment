@@ -5,16 +5,12 @@
 
 
 
-<item>
-<title>Abbey Road (Cam) (By Request)</title>
-<link>rtmp://video2.earthcam.com/fecnetwork playpath=AbbeyRoadHD1.flv swfUrl=http://www.earthcam.com/swf/streaming/client_video_player.swf?v2 pageUrl=http://www.earthcam.com/clients/abbeyroad/embed.php?mode=live&width=732&width=717</link>
-<thumbnail>http://www.mylivestreams.com/images/camera/large_10007.jpg</thumbnail>
-</item>
+
 
 
 <item>
 <title>All In The Family</title>
-<link>rtmp://192.99.21.184:1935/blink02202afghadfgfodfndanfkjncvnjvnkjfhfgjhadfvandkjcnbjkadgbutoarihn/ playpath=aitf swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?aitf live=1</link>
+<link>rtmp://192.99.21.184/con5631202/ playpath=aitf swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?aitf live=1</link>
 <thumbnail>http://1.bp.blogspot.com/_6kYzhJGqq2M/TK6ErK2EhFI/AAAAAAAAFco/-yoO67txjYo/s1600/All+In+The+Family.jpg</thumbnail>
 </item>
 
@@ -22,7 +18,7 @@
 
 <item>
 <title>Boy Meets World</title>
-<link>rtmp://192.99.21.184:1935/blink02202afghadfgfodfndanfkjncvnjvnkjfhfgjhadfvandkjcnbjkadgbutoarihn/ playpath=bmw swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?bmw live=1</link>
+<link>rtmp://192.99.21.184/con5631202/ playpath=bmw swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?bmw live=1</link>
 <thumbnail>http://s3.amazonaws.com/inarticles/cd6d9f5283899757651f67cbe4a3508b.jpg</thumbnail>
 </item>
 
@@ -30,7 +26,7 @@
 
 <item>
 <title>Cheers</title>
-<link>rtmp://192.99.21.184:1935/blink02202afghadfgfodfndanfkjncvnjvnkjfhfgjhadfvandkjcnbjkadgbutoarihn/ playpath=cheers01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cheers01 live=1</link>
+<link>rtmp://192.99.21.184/con5631202/ playpath=cheers01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cheers01 live=1</link>
 <thumbnail>http://www.tvshowsondvd.com/graphics/news3/Cheers_S11_early.jpg</thumbnail>
 </item>
 
@@ -40,14 +36,14 @@
 
 <item>
 <title>Cops</title>
-<link>rtmp://192.99.21.184:1935/blink02202afghadfgfodfndanfkjncvnjvnkjfhfgjhadfvandkjcnbjkadgbutoarihn/ playpath=cops01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cops01 live=1</link>
+<link>rtmp://192.99.21.184/con5631202/ playpath=cops01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cops01 live=1</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/18/COPS_intertitle.png</thumbnail>
 </item>
 
 
 <item>
 <title>The Cosby Show</title>
-<link>rtmp://192.99.21.184:1935/blink02202afghadfgfodfndanfkjncvnjvnkjfhfgjhadfvandkjcnbjkadgbutoarihn/ playpath=cosby swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cosby live=1</link>
+<link>rtmp://192.99.21.184/con5631202/ playpath=cosby swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cosby live=1</link>
 <thumbnail>http://www.tvshowsondvd.com/graphics/news3/TheCosbyShow_Cast.jpg</thumbnail>
 </item>
 
@@ -57,22 +53,18 @@
 
 <item>
 <title>The Drew Carey Show</title>
-<link>rtmp://192.99.21.184:1935/blink02202afghadfgfodfndanfkjncvnjvnkjfhfgjhadfvandkjcnbjkadgbutoarihn/ playpath-drewcarey swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?drewcarey live=1</link>
+<link>rtmp://192.99.21.184/con5631202/ playpath-drewcarey swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?drewcarey live=1</link>
 <thumbnail>http://i.cdn.turner.com/v5cache/TBS/Images/Dynamic/i10/drewcarey_cast_240x260_053020041834.jpg</thumbnail>
 </item>
 
 
 
-<item>
-<title>Elvis Wedding Chapel (Cam)</title>
-<link>rtmp://video2.earthcam.com/fecnetwork playpath=5359.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140606 pageUrl=http://www.earthcam.com/usa/nevada/lasvegas/index.php?cam=wedding</link>
-<thumbnail>http://pics3.city-data.com/businesses/p/5/5/9/4/6045594.JPG</thumbnail>
-</item>
+
 
 
 <item>
 <title>Everybody Loves Raymond</title>
-<link>rtmp://192.99.39.7/80901/ playpath=elr02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?elr02 live-1</link>
+<link>rtmp://192.99.39.7/def4058759101/ playpath=elr02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?elr02 live-1</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTc2ODEyMzUwMV5BMl5BanBnXkFtZTcwNTAxODUyMQ@@._V1_SY317_CR8,0,214,317_.jpg</thumbnail>
 </item>
 
@@ -83,50 +75,39 @@
 
 <item>
 <title>Fresh Prince Of Bel Air</title>
-<link>rtmp://192.99.39.7/80901/ playpath=freshprince02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?freshprince02 live=1</link>
+<link>rtmp://192.99.39.7/def4058759101/ playpath=freshprince02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?freshprince02 live=1</link>
 <thumbnail>http://morganmosley.files.wordpress.com/2011/10/freshie5yq4l-_sx500_.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>Friends</title>
-<link>rtmp://192.99.39.7/bacin01/ playpath=friends02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?friends02 live=1</link>
+<link>rtmp://192.99.39.7/def4058759101/ playpath=friends02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?friends02 live=1</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/d/d6/20130303210812!Friends_season_one_cast.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>Growing Pains</title>
-<link>rtmp://192.99.21.184:1935/blink02202afghadfgfodfndanfkjncvnjvnkjfhfgjhadfvandkjcnbjkadgbutoarihn/ playpath=gpain swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?gpain live=1</link>
+<link>rtmp://192.99.21.184/con5631202/ playpath=gpain swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?gpain live=1</link>
 <thumbnail>http://kirkcameron.com/wp-content/uploads/2012/06/growing_pains_pc.jpeg</thumbnail>
 </item>
 
 
 <item>
 <title>Hangin With Mr Cooper</title>
-<link>rtmp://192.99.21.184:1935/blink02202afghadfgfodfndanfkjncvnjvnkjfhfgjhadfvandkjcnbjkadgbutoarihn/ playpath=cooper swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cooper live=1</link>
+<link>rtmp://192.99.21.184/con5631202/ playpath=cooper swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cooper live=1</link>
 <thumbnail>http://media.tumblr.com/01914399fbde944e850158587d4af571/tumblr_inline_mt0hx3Pi3Z1qz4rgp.jpg</thumbnail>
 </item>
 
 
 
-<item>
-<title>HLN</title>
-<link>rtmp://c.cdn.livenewschat.eu/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf swfVfy=1 live=1 pageUrl=http://weplaylive.tv timeout=15</link>
-<thumbnail>http://i3.photobucket.com/albums/y53/kraftykatty/FirstConcept-2c.png</thumbnail>
-</item>
 
-
-<item>
-<title>HSN</title>
-<link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31 swfUrl="http://img.hsni.com/images/Site_Relaunch_2007/arcade/StrobeMediaPlayback_Default.swf" pageUrl="http://www.hsn.com/watch-hsn-tv-live_xh.aspx?network=1&autostart=1&cm_sp=Global*LNTV*LiveTV" swfVfy=true live=true</link>
-<thumbnail>http://i3.photobucket.com/albums/y53/kraftykatty/HSN.png</thumbnail>
-</item>
 
 
 <item>
 <title>I Love Lucy</title>
-<link>rtmp://192.99.21.184:1935/blink02202afghadfgfodfndanfkjncvnjvnkjfhfgjhadfvandkjcnbjkadgbutoarihn/ playpath=lucy02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?lucy02 live=1</link>
+<link>rtmp://192.99.21.184/con5631202/ playpath=lucy02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?lucy02 live=1</link>
 <thumbnail>http://www.criticalcommons.org/Members/AMST125/clips/i-love-lucy-promotional-photo/thumbnailImage</thumbnail>
 </item>
 
@@ -134,14 +115,14 @@
 
 <item>
 <title>King Of Queens</title>
-<link>rtmp://192.99.39.7/80901/ playpath=koq02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koq02 live=1</link>
+<link>rtmp://192.99.39.7/def4058759101/ playpath=koq02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koq02 live=1</link>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20130914231502/epicrapbattlesofhistory/images/7/78/The_king_of_queens.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>King Of The Hill</title>
-<link>rtmp://192.99.39.7/80901/ playpath=koth02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koth02 live=1</link>
+<link>rtmp://192.99.39.7/def4058759101/ playpath=koth02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?koth02 live=1</link>
 <thumbnail>http://i360.photobucket.com/albums/oo43/Da_Killa_Ounze/KingoftheHillTheGuysBanner_zpsc8b5fec1.jpg</thumbnail>
 </item>
 
@@ -155,7 +136,7 @@
 
 <item>
 <title>Roseanne</title>
-<link>rtmp://192.99.21.184:1935/blink02202afghadfgfodfndanfkjncvnjvnkjfhfgjhadfvandkjcnbjkadgbutoarihn/ playpath=roseanne01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?roseanne01 live=1</link>
+<link>rtmp://192.99.21.184/con5631202/ playpath=roseanne01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?roseanne01 live=1</link>
 <thumbnail>http://popreflection.files.wordpress.com/2012/02/701555752.jpg</thumbnail>
 </item>
 
@@ -180,23 +161,19 @@
 
 <item>
 <title>Threes Company</title>
-<link>rtmp://192.99.21.184:1935/blink02202afghadfgfodfndanfkjncvnjvnkjfhfgjhadfvandkjcnbjkadgbutoarihn/ playpath=3scom01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?3scom01 live=1</link>
+<link>rtmp://192.99.21.184/con5631202/ playpath=3scom01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?3scom01 live=1</link>
 <thumbnail>http://www.jimski.net/wp-content/uploads/2013/10/Threes-Company-logo1.jpg</thumbnail>
 </item>
 
 
-<item>
-<title>Times Square (Cam)</title>
-<link>rtmp://video4.earthcam.com:1935/fecnetwork playpath=hdtimes10.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20141231b pageUrl=http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1</link>
-<thumbnail>http://4.bp.blogspot.com/-J4pqmxq-b30/URP1QO5JpkI/AAAAAAAAYm4/l2D1reYyGEo/s1600/DSC_0173.JPG</thumbnail>
-</item>
+
 
 
 
 
 <item>
 <title>Two & A Half Men</title>
-<link>rtmp://192.99.39.7/80901/ playpath=men02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?men02 live=1</link>
+<link>rtmp://192.99.39.7/def4058759101/ playpath=men02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex4.php?men02 live=1</link>
 <thumbnail>http://pmcdeadline2.files.wordpress.com/2011/07/two-and-a-half-men-seasons-1-7-30dvd-001_20110728185806.jpg</thumbnail>
 </item>
 
@@ -213,126 +190,6 @@
 
 
 
-
-<item>
-<title>St. George's Square In Valletta</title>
-<link>http://178.32.143.245/2003UBCK/2003UBCK.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-
-<item>
-<title>The Strand, Sliema Bay & Manoel Island</title>
-<link>http://178.32.143.245/2011KA6F/2011KA6F.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-<item>
-<title>Sliema Bay From The Fortina SPA Resort</title>
-<link>http://178.32.143.245/2202TDRB/2202TDRB.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-<item>
-<title>St. George's Beach</title>
-<link>http://178.32.143.245/0801UZ8Q/0801UZ8Q.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-
-<item>
-<title>Marsaxlokk Bay & Fort St. Lucian From Qajjenza</title>
-<link>http://178.32.143.245/08016YLU/08016YLU.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-<item>
-<title>Casa Antonia, Balzan</title>
-<link>http://178.32.143.245/0505KPT8/0505KPT8.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-<item>
-<title>Manoel Island From The Fortina SPA Resort</title>
-<link>http://178.32.143.245/2202B7DS/2202B7DS.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-
-<item>
-<title>Qawra Coast</title>
-<link>http://178.32.143.245/0101KXW6/0101KXW6.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-<item>
-<title>SmartCity Malta</title>
-<link>http://178.32.143.245/20037MDF/20037MDF.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-<item>
-<title>Qawra's Waters Edge</title>
-<link>http://178.32.143.245/0801FUPU/0801FUPU.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-
-<item>
-<title>The Grand Harbour Entrance From British Hotel</title>
-<link>http://178.32.143.245/2101XL3X/2101XL3X.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-<item>
-<title>Valletta From The Fortina SPA Resort</title>
-<link>http://178.32.143.245/1905F7BU/1905F7BU.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-<item>
-<title>St. George's Bay</title>
-<link>http://178.32.143.245/0801T2GC/0801T2GC.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-
-<item>
-<title>Hamrun, High Street Sponsor Mexico Garage</title>
-<link>http://178.32.143.245/2202T6EN/2202T6EN.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-<item>
-<title>The Strand</title>
-<link>http://178.32.143.245/2202PWRA/2202PWRA.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-<item>
-<title>Hamrun, High Street From AHB Borg</title>
-<link>http://178.32.143.245/0801BC7A/0801BC7A.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-
-<item>
-<title>Marsa-Hamrun By Pass From DigitalZone Showroom</title>
-<link>http://178.32.143.245/2101ANC5/2101ANC5.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-<item>
-<title>Crossing Mdina-Chetcuti From Tiles & Marble Showroom</title>
-<link>http://178.32.143.245/2003PGHX/2003PGHX.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
-
-<item>
-<title>Attard, Mdina Road From Citroen Showroom</title>
-<link>http://178.32.143.245/0101X8TS/0101X8TS.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/iconshock/real-vista-electrical-appliances/256/webcam-icon.png</thumbnail>
-</item>
 
 
 
